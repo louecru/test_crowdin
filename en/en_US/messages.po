@@ -1,0 +1,2218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 8f126269c2955c377a0c295611048731\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-01-20 11:19\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 8f126269c2955c377a0c295611048731\n"
+"X-Crowdin-Project-ID: 30\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /main/messages.po\n"
+"X-Crowdin-File-ID: 3630\n"
+
+msgctxt "app"
+msgid "+{sum} {currency}"
+msgstr ""
+
+msgctxt "app"
+msgid "ID клиента для начисления кэшбека"
+msgstr ""
+
+msgctxt "app"
+msgid "ID подразделения (город)."
+msgstr ""
+
+msgctxt "app"
+msgid "QIWI Кошелёк"
+msgstr ""
+
+msgctxt "app"
+msgid "TaxSee"
+msgstr ""
+
+msgctxt "app"
+msgid "TaxSee: Геймификация - обратная связь"
+msgstr ""
+
+msgctxt "app"
+msgid "UTC - для сверки с актом выполненных работ"
+msgstr ""
+
+msgctxt "app"
+msgid "{driver} на {car}"
+msgstr ""
+
+msgctxt "app"
+msgid "{sum} {currency}"
+msgstr ""
+
+msgctxt "app"
+msgid "«Taxsee: заказ такси»"
+msgstr ""
+
+msgctxt "app"
+msgid "«maxim — заказ такси»"
+msgstr ""
+
+msgctxt "app"
+msgid "«Максимания» продолжается! Совершай поездки и получай новые крутые стикеры и бонусы от партнеров! Следи за информацией на сайте."
+msgstr ""
+
+msgctxt "app"
+msgid "«Поехали: заказ такси»"
+msgstr ""
+
+msgctxt "app"
+msgid "«максим: заказ такси»"
+msgstr ""
+
+msgctxt "app"
+msgid "Август"
+msgstr ""
+
+msgctxt "app"
+msgid "Автоматически растягивать по высоте"
+msgstr ""
+
+msgctxt "app"
+msgid "Авторизация"
+msgstr ""
+
+msgctxt "app"
+msgid "Авторизоваться"
+msgstr ""
+
+msgctxt "app"
+msgid "Авторизуйтесь"
+msgstr ""
+
+msgctxt "app"
+msgid "Адрес"
+msgstr ""
+
+msgctxt "app"
+msgid "Адрес проживания"
+msgstr ""
+
+msgctxt "app"
+msgid "Адрес проживания (город, улица, дом, квартира)"
+msgstr ""
+
+msgctxt "app"
+msgid "Адрес электронной почты для отправки отчета о поездке"
+msgstr ""
+
+msgctxt "app"
+msgid "Адреса"
+msgstr ""
+
+msgctxt "app"
+msgid "Акты выполненных работ."
+msgstr ""
+
+msgctxt "app"
+msgid "Апрель"
+msgstr ""
+
+msgctxt "app"
+msgid "Архив стикеров"
+msgstr ""
+
+msgctxt "app"
+msgid "БИК банка (Можно узнать в личном кабинете или отделении банка)"
+msgstr ""
+
+msgctxt "app"
+msgid "Баланс"
+msgstr ""
+
+msgctxt "app"
+msgid "Баланс:"
+msgstr ""
+
+msgctxt "app"
+msgid "Быстрые адреса"
+msgstr ""
+
+msgctxt "app"
+msgid "В каждом сезоне можно получить стикеры, относящиеся только к этому сезону. Если вы не успели собрать всю коллекцию стикеров, не расстраивайтесь: впереди еще много таких коллекций."
+msgstr ""
+
+msgctxt "app"
+msgid "В мобильном приложении «ОҢАЙ!». Для этого откройте вкладку «Оплатить», коснитесь значка с логотипом «Maxim», далее укажите номер счёта {account} и сумму оплаты."
+msgstr ""
+
+msgctxt "app"
+msgid "В мобильном приложении «ОҢАЙ!». Для этого откройте вкладку «Оплатить», коснитесь значка с логотипом «Поехали», далее укажите номер счёта {account} и сумму оплаты."
+msgstr ""
+
+msgctxt "app"
+msgid "В обработке"
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах «CashTerminal». Для этого выберите иконку с логотипом «Maxim», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах «QIWI», «Сбербанк.Онлайн». Для этого выберите иконку с логотипом «Maxim», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах «QIWI», «Сбербанк.Онлайн». Для этого выберите иконку с логотипом «Поехали», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах «Приватбанк», «EasyPay», «Сити 24»."
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах и точках приема платежей «Money Movers». Для этого выберите иконку с логотипом «Maxim», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах, отделениях «Казпочты» и точках приема платежей «QIWI», «Касса 24». Для этого выберите иконку с логотипом «Maxim», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "В платёжных терминалах, отделениях «Казпочты» и точках приема платежей, «QIWI», «Касса 24». Для этого выберите иконку с логотипом «Поехали», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "В работе"
+msgstr ""
+
+msgctxt "app"
+msgid "В сообщении"
+msgstr ""
+
+msgctxt "app"
+msgid "Валюта"
+msgstr ""
+
+msgctxt "app"
+msgid "Ваш номер: {phone}"
+msgstr ""
+
+msgctxt "app"
+msgid "Ваш промокод"
+msgstr ""
+
+msgctxt "app"
+msgid "Ваше обращение принято."
+msgstr ""
+
+msgctxt "app"
+msgid "Ваше обращение принято. По результатам рассмотрения Вам будет дан ответ."
+msgstr ""
+
+msgctxt "app"
+msgid "Ваши заявления на возврат предоплаты со счета:"
+msgstr ""
+
+msgctxt "app"
+msgid "Ваши пожелания и предложения по улучшению нашего сервиса"
+msgstr ""
+
+msgctxt "app"
+msgid "Введите данные о банке для проверки номера счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Введите код"
+msgstr ""
+
+msgctxt "app"
+msgid "Введите корректный ИИН"
+msgstr ""
+
+msgctxt "app"
+msgid "Введите корректный номер {attribute}"
+msgstr ""
+
+msgctxt "app"
+msgid "Введите корректный номер счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Введите текст"
+msgstr ""
+
+msgctxt "app"
+msgid "Включить Республику Крым"
+msgstr ""
+
+msgctxt "app"
+msgid "Включить выбор адреса на карте"
+msgstr ""
+
+msgctxt "app"
+msgid "Внимание"
+msgstr ""
+
+msgctxt "app"
+msgid "Во время подсчета цены произошла ошибка. Попробуйте позже!"
+msgstr ""
+
+msgctxt "app"
+msgid "Во время создания заказа произошла ошибка. Попробуйте позже!"
+msgstr ""
+
+msgctxt "app"
+msgid "Водитель и автомобиль"
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат возможен только на дебетовую карту физического лица, имеющего гражданство Республики Казахстан."
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат возможен только на дебетовую карту физического лица, имеющего российское гражданство."
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат предоплаты со счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат предоплаты со счета "
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат производится в течение 5 банковских дней."
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат производится в течение 7 банковских дней со дня подачи заявки."
+msgstr ""
+
+msgctxt "app"
+msgid "Возврат средств"
+msgstr ""
+
+msgctxt "app"
+msgid "Возникла внутренняя ошибка сервера."
+msgstr ""
+
+msgctxt "app"
+msgid "Возникла ошибка"
+msgstr ""
+
+msgctxt "app"
+msgid "Войти"
+msgstr ""
+
+msgctxt "app"
+msgid "Войти в кабинет"
+msgstr ""
+
+msgctxt "app"
+msgid "Время"
+msgstr ""
+
+msgctxt "app"
+msgid "Время выезда"
+msgstr ""
+
+msgctxt "app"
+msgid "Время запроса"
+msgstr ""
+
+msgctxt "app"
+msgid "Время поездки"
+msgstr ""
+
+msgctxt "app"
+msgid "Вс"
+msgstr ""
+
+msgctxt "app"
+msgid "Все права защищены."
+msgstr ""
+
+msgctxt "app"
+msgid "Все сервисы, в которых ранее использовался старый код, теперь будут доступны только по новому коду."
+msgstr ""
+
+msgctxt "app"
+msgid "Все стикеры"
+msgstr ""
+
+msgctxt "app"
+msgid "Вт"
+msgstr ""
+
+msgctxt "app"
+msgid "Вторая фамилия"
+msgstr ""
+
+msgctxt "app"
+msgid "Вход в личный кабинет"
+msgstr ""
+
+msgctxt "app"
+msgid "Вчера"
+msgstr ""
+
+msgctxt "app"
+msgid "Вы должны быть старше 16 лет"
+msgstr ""
+
+msgctxt "app"
+msgid "Вы находитесь {cityOrPlaceName}?"
+msgstr ""
+
+msgctxt "app"
+msgid "Вы уверены, что хотите сгенерировать новый код?"
+msgstr ""
+
+msgctxt "app"
+msgid "Вы уверены, что хотите удалить этот номер телефона?"
+msgstr ""
+
+msgctxt "app"
+msgid "Выберите банк из списка для проверки {attribute}"
+msgstr ""
+
+msgctxt "app"
+msgid "Выбрано"
+msgstr ""
+
+msgctxt "app"
+msgid "Выбрано {count}"
+msgstr ""
+
+msgctxt "app"
+msgid "Выбрано: {count}"
+msgstr ""
+
+msgctxt "app"
+msgid "Выбрать"
+msgstr ""
+
+msgctxt "app"
+msgid "Выбрать населенный пункт"
+msgstr ""
+
+msgctxt "app"
+msgid "Вывести средства"
+msgstr ""
+
+msgctxt "app"
+msgid "Выдача новогодних стикеров — праздничное событие, ограниченное по времени. Если вы не успели собрать всю новогоднюю коллекцию, не расстраивайтесь. Впереди еще много таких событий. Мы постараемся приурочить их к сезонам максимальной востребованности поездок на такси."
+msgstr ""
+
+msgctxt "app"
+msgid "Выйти"
+msgstr ""
+
+msgctxt "app"
+msgid "Выписка по лицевому счету {account} за период с {startDate} по {endDate}"
+msgstr ""
+
+msgctxt "app"
+msgid "Выполнен"
+msgstr ""
+
+msgctxt "app"
+msgid "Выход"
+msgstr ""
+
+msgctxt "app"
+msgid "Где купить"
+msgstr ""
+
+msgctxt "app"
+msgid "Генерация нового кода"
+msgstr ""
+
+msgctxt "app"
+msgid "Город"
+msgstr ""
+
+msgctxt "app"
+msgid "Готов"
+msgstr ""
+
+msgctxt "app"
+msgid "Готово"
+msgstr ""
+
+msgctxt "app"
+msgid "Да"
+msgstr ""
+
+msgctxt "app"
+msgid "Да, отвязать этот номер"
+msgstr ""
+
+msgctxt "app"
+msgid "Да, перепривязать"
+msgstr ""
+
+msgctxt "app"
+msgid "Да, позвоните мне"
+msgstr ""
+
+msgctxt "app"
+msgid "Данные владельца счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Данный номер привязан к другой учетной записи, вы хотите перепривязать его к своей учетной записи?"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата выдачи паспорта"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата начала периода"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата окончания периода"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата операции"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата рождения"
+msgstr ""
+
+msgctxt "app"
+msgid "Дата создания анкеты"
+msgstr ""
+
+msgctxt "app"
+msgid "Декабрь"
+msgstr ""
+
+msgctxt "app"
+msgid "День рождения"
+msgstr ""
+
+msgctxt "app"
+msgid "Для заказа такси необходимо авторизоваться"
+msgstr ""
+
+msgctxt "app"
+msgid "Для заказа такси нужно авторизоваться"
+msgstr ""
+
+msgctxt "app"
+msgid "Для оформления заявки потребуются банковские реквизиты."
+msgstr ""
+
+msgctxt "app"
+msgid "Для просмотра заказов нужно авторизоваться"
+msgstr ""
+
+msgctxt "app"
+msgid "Для этого выберите иконку с логотипом «Maxim», введите номер счёта {account} и внесите необходимую сумму."
+msgstr ""
+
+msgctxt "app"
+msgid "Добавить"
+msgstr ""
+
+msgctxt "app"
+msgid "Добавить адрес"
+msgstr ""
+
+msgctxt "app"
+msgid "Добавить номер"
+msgstr ""
+
+msgctxt "app"
+msgid "Добавить телефон"
+msgstr ""
+
+msgctxt "app"
+msgid "Добавить шаблон"
+msgstr ""
+
+msgctxt "app"
+msgid "Добавление номера"
+msgstr ""
+
+msgctxt "app"
+msgid "Документы"
+msgstr ""
+
+msgctxt "app"
+msgid "Дом"
+msgstr ""
+
+msgctxt "app"
+msgid "Дополнительные услуги"
+msgstr ""
+
+msgctxt "app"
+msgid "Доступ запрещен."
+msgstr ""
+
+msgctxt "app"
+msgid "Доступно:"
+msgstr ""
+
+msgctxt "app"
+msgid "Другой номер для связи"
+msgstr ""
+
+msgctxt "app"
+msgid "Если заказ предназначен для пассажира с другим номером."
+msgstr ""
+
+msgctxt "app"
+msgid "Если ты участвуешь в акции, собрал не все стикеры, но новые все равно не приходят, напиши нам о проблеме через обратную связь. Форма расположена под этими ответами:)"
+msgstr ""
+
+msgctxt "app"
+msgid "Ещё"
+msgstr ""
+
+msgctxt "app"
+msgid "Женский"
+msgstr ""
+
+msgctxt "app"
+msgid "За лицевым счётом {account} числится задолженность в размере {debt}. Услуга заказа такси может стать недоступна. {url}"
+msgstr ""
+
+msgctxt "app"
+msgid "За поездки в день рождения"
+msgstr ""
+
+msgctxt "app"
+msgid "За что даются стикеры? Как получить бонусный шестой стикер из коллекции?"
+msgstr ""
+
+msgctxt "app"
+msgid "За что даются стикеры? Как получить шестой, бонусный стикер из коллекции?"
+msgstr ""
+
+msgctxt "app"
+msgid "За этот период нет заказов в населенном пункте {placeName}."
+msgstr ""
+
+msgctxt "app"
+msgid "Завершение регистрации"
+msgstr ""
+
+msgctxt "app"
+msgid "Заголовок"
+msgstr ""
+
+msgctxt "app"
+msgid "Задать вопрос перевозчику"
+msgstr ""
+
+msgctxt "app"
+msgid "Зайди в главном меню приложения во вкладку «Коллекция стикеров». Откроется либо экран согласия на участие в акции, либо коллекция собранных стикеров."
+msgstr ""
+
+msgctxt "app"
+msgid "Заказ не найден"
+msgstr ""
+
+msgctxt "app"
+msgid "Заказ такси"
+msgstr ""
+
+msgctxt "app"
+msgid "Заказ такси: {phoneNumber}"
+msgstr ""
+
+msgctxt "app"
+msgid "Заказать"
+msgstr ""
+
+msgctxt "app"
+msgid "Заказывай такси через приложение «Максим» и собирай уникальные стикеры. Новая поездка — новый персонаж. Собери их всех!"
+msgstr ""
+
+msgctxt "app"
+msgid "Заказывай такси через приложение – собирай уникальных персонажей и делись ими в социальных сетях."
+msgstr ""
+
+msgctxt "app"
+msgid "Закрыто"
+msgstr ""
+
+msgctxt "app"
+msgid "Закрыть"
+msgstr ""
+
+msgctxt "app"
+msgid "Заполнить текст претензии"
+msgstr ""
+
+msgctxt "app"
+msgid "Запомнить меня"
+msgstr ""
+
+msgctxt "app"
+msgid "Запрос на получение отчета успешно отправлен."
+msgstr ""
+
+msgctxt "app"
+msgid "Запросить код повторно можно через {time}"
+msgstr ""
+
+msgctxt "app"
+msgid "Запросить повторно"
+msgstr ""
+
+msgctxt "app"
+msgid "Запросить повторно {timer}"
+msgstr ""
+
+msgctxt "app"
+msgid "Заявление на возврат предоплаты со счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Заявление от {date}"
+msgstr ""
+
+msgctxt "app"
+msgid "Заявление по возврату средств успешно создано."
+msgstr ""
+
+msgctxt "app"
+msgid "Звоним"
+msgstr ""
+
+msgctxt "app"
+msgid "Звоним..."
+msgstr ""
+
+msgctxt "app"
+msgid "Здесь будут храниться собранные стикеры"
+msgstr ""
+
+msgctxt "app"
+msgid "Значение \"{attribute}\" задано неверно."
+msgstr ""
+
+msgctxt "app"
+msgid "Значение \"{dateEnd}\" должно быть больше либо равно \"{dateStart}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Значение «{attribute}» должно содержать 22 символа."
+msgstr ""
+
+msgctxt "app"
+msgid "Значение «{attribute}» не является правильным email адресом."
+msgstr ""
+
+msgctxt "app"
+msgid "ИИН получателя"
+msgstr ""
+
+msgctxt "app"
+msgid "ИНН банка"
+msgstr ""
+
+msgctxt "app"
+msgid "ИНН/БИН"
+msgstr ""
+
+msgctxt "app"
+msgid "Игра уже началась! Заказывай такси в приложении «Максим» и присоединяйся к «Максимании». Давай соберем все стикерпаки вместе."
+msgstr ""
+
+msgctxt "app"
+msgid "Изменение шаблона"
+msgstr ""
+
+msgctxt "app"
+msgid "Изменение шаблона \"{name}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Изменить"
+msgstr ""
+
+msgctxt "app"
+msgid "Изменить заказ"
+msgstr ""
+
+msgctxt "app"
+msgid "Изменить настройки номера телефона"
+msgstr ""
+
+msgctxt "app"
+msgid "Изменить номер"
+msgstr ""
+
+msgctxt "app"
+msgid "Имя"
+msgstr ""
+
+msgctxt "app"
+msgid "Имя отправителя"
+msgstr ""
+
+msgctxt "app"
+msgid "Имя получателя"
+msgstr ""
+
+msgctxt "app"
+msgid "Информация о поездке"
+msgstr ""
+
+msgctxt "app"
+msgid "Исполнитель"
+msgstr ""
+
+msgctxt "app"
+msgid "История поездок"
+msgstr ""
+
+msgctxt "app"
+msgid "Июль"
+msgstr ""
+
+msgctxt "app"
+msgid "Июнь"
+msgstr ""
+
+msgctxt "app"
+msgid "КПП банка"
+msgstr ""
+
+msgctxt "app"
+msgid "Кабинет для клиентов"
+msgstr ""
+
+msgctxt "app"
+msgid "Квартира"
+msgstr ""
+
+msgctxt "app"
+msgid "Кем выдан паспорт"
+msgstr ""
+
+msgctxt "app"
+msgid "Ключ PIX (CPF)"
+msgstr ""
+
+msgctxt "app"
+msgid "Код"
+msgstr ""
+
+msgctxt "app"
+msgid "Код вставки"
+msgstr ""
+
+msgctxt "app"
+msgid "Код отправлен"
+msgstr ""
+
+msgctxt "app"
+msgid "Код проверки"
+msgstr ""
+
+msgctxt "app"
+msgid "Коллекция доступна {link_text}"
+msgstr ""
+
+msgctxt "app"
+msgid "Коллекция стикеров временно недоступна в вашем регионе."
+msgstr ""
+
+msgctxt "app"
+msgid "Комиссия за возврат средств составляет {percentWithSign}."
+msgstr ""
+
+msgctxt "app"
+msgid "Комиссия за возврат средств составляет {sum} {currency}."
+msgstr ""
+
+msgctxt "app"
+msgid "Комиссия не взимается."
+msgstr ""
+
+msgctxt "app"
+msgid "Комментарий"
+msgstr ""
+
+msgctxt "app"
+msgid "Комментарий для водителя"
+msgstr ""
+
+msgctxt "app"
+msgid "Комментарий для исполнителя"
+msgstr ""
+
+msgctxt "app"
+msgid "Контейнер в который загрузится фрейм. По умолчанию \"{name}\""
+msgstr ""
+
+msgctxt "app"
+msgid "Копировать ссылку"
+msgstr ""
+
+msgctxt "app"
+msgid "Корр/счет банка"
+msgstr ""
+
+msgctxt "app"
+msgid "Куда"
+msgstr ""
+
+msgctxt "app"
+msgid "Куда доставить"
+msgstr ""
+
+msgctxt "app"
+msgid "Л/С №"
+msgstr ""
+
+msgctxt "app"
+msgid "Л/С № {number}"
+msgstr ""
+
+msgctxt "app"
+msgid "Лицевые счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Личные данные"
+msgstr ""
+
+msgctxt "app"
+msgid "Май"
+msgstr ""
+
+msgctxt "app"
+msgid "Максимальная сумма на выдачу - {sum} {currency}"
+msgstr ""
+
+msgctxt "app"
+msgid "Максимания"
+msgstr ""
+
+msgctxt "app"
+msgid "Март"
+msgstr ""
+
+msgctxt "app"
+msgid "Маршрут"
+msgstr ""
+
+msgctxt "app"
+msgid "Маршрут / Адрес"
+msgstr ""
+
+msgctxt "app"
+msgid "Минуты"
+msgstr ""
+
+msgctxt "app"
+msgid "Мои заказы"
+msgstr ""
+
+msgctxt "app"
+msgid "Мужской"
+msgstr ""
+
+msgctxt "app"
+msgid "Нажимая кнопку {button}, я даю свое согласие на использование и обработку моих персональных данных в соответствии с п. 1 ч. 1 ст. 11 Закона Украины от 01.06.2010 г. № 2297 «О защите персональных данных»."
+msgstr ""
+
+msgctxt "app"
+msgid "Нажимая кнопку {button}, я даю свое согласие на использование и обработку моих персональных данных в соответствии с пунктом ж статьи 2 Закона Грузии №2869 от 30 ноября 2014 «О защите персональных данных»."
+msgstr ""
+
+msgctxt "app"
+msgid "Нажимая кнопку {button}, я даю свое согласие на использование и обработку моих персональных данных в соответствии с ч. 1 ст. 9 ФЗ от 27.07.2006 г. № 152 «О персональных данных»."
+msgstr ""
+
+msgctxt "app"
+msgid "Нажимая кнопку {button}, я даю свое согласие на использование и обработку моих персональных данных в соответствии со ст. 8 Закона Республики Казахстан от 21 мая 2013 года № 94 -V «О персональных данных и их защите»."
+msgstr ""
+
+msgctxt "app"
+msgid "Нажимая кнопку {button}, я даю свое согласие на использование и обработку моих персональных данных на основании чл. 4, ал. 1, т. 2 от ЗЗЛД."
+msgstr ""
+
+msgctxt "app"
+msgid "Нажимая кнопку «Продолжить», я соглашаюсь с {public_offer_text_link} и {privacy_text_link}."
+msgstr ""
+
+msgctxt "app"
+msgid "Назад"
+msgstr ""
+
+msgctxt "app"
+msgid "Название"
+msgstr ""
+
+msgctxt "app"
+msgid "Название банка"
+msgstr ""
+
+msgctxt "app"
+msgid "Название шаблона"
+msgstr ""
+
+msgctxt "app"
+msgid "Написать обращение"
+msgstr ""
+
+msgctxt "app"
+msgid "Населенный пункт"
+msgstr ""
+
+msgctxt "app"
+msgid "Настройки"
+msgstr ""
+
+msgctxt "app"
+msgid "Не пришло СМС?"
+msgstr ""
+
+msgctxt "app"
+msgid "Не пришёл код?"
+msgstr ""
+
+msgctxt "app"
+msgid "Не создано ни одного шаблона."
+msgstr ""
+
+msgctxt "app"
+msgid "Не указан"
+msgstr ""
+
+msgctxt "app"
+msgid "Не хочу"
+msgstr ""
+
+msgctxt "app"
+msgid "Не хочу участвовать"
+msgstr ""
+
+msgctxt "app"
+msgid "Неверная организация"
+msgstr ""
+
+msgctxt "app"
+msgid "Неверный формат даты"
+msgstr ""
+
+msgctxt "app"
+msgid "Неизвестная ошибка. Попробуйте позже."
+msgstr ""
+
+msgctxt "app"
+msgid "Необходимо включить Cookies в настройках вашего браузера"
+msgstr ""
+
+msgctxt "app"
+msgid "Необходимо дать согласие на использование и обработку персональных данных"
+msgstr ""
+
+msgctxt "app"
+msgid "Необходимо заполнить «{attribute}»."
+msgstr ""
+
+msgctxt "app"
+msgid "Необходимо заполнить номер телефона"
+msgstr ""
+
+msgctxt "app"
+msgid "Непрозрачность"
+msgstr ""
+
+msgctxt "app"
+msgid "Неснижаемый остаток:"
+msgstr ""
+
+msgctxt "app"
+msgid "Нет"
+msgstr ""
+
+msgctxt "app"
+msgid "Нет активных заказов"
+msgstr ""
+
+msgctxt "app"
+msgid "Нет привязанных телефонов."
+msgstr ""
+
+msgctxt "app"
+msgid "Нет, повторите СМС"
+msgstr ""
+
+msgctxt "app"
+msgid "Ничего не найдено"
+msgstr ""
+
+msgctxt "app"
+msgid "Ничего не найдено."
+msgstr ""
+
+msgctxt "app"
+msgid "Новый заказ"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер банковской карты получателя"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер карты не может быть длиннее 18 цифр"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер карты не может быть длиннее 19 цифр"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер карты не может быть короче 16 цифр"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер счёта (Можно узнать в личном кабинете или отделении банка)"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер телефона"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер телефона 1"
+msgstr ""
+
+msgctxt "app"
+msgid "Номер телефона не найден"
+msgstr ""
+
+msgctxt "app"
+msgid "Номера телефонов"
+msgstr ""
+
+msgctxt "app"
+msgid "Ноябрь"
+msgstr ""
+
+msgctxt "app"
+msgid "О тарифе"
+msgstr ""
+
+msgctxt "app"
+msgid "Обновите страницу через несколько минут. Если данные не появятся, напишите в «Обратную связь»."
+msgstr ""
+
+msgctxt "app"
+msgid "Обновить"
+msgstr ""
+
+msgctxt "app"
+msgid "Обратная связь"
+msgstr ""
+
+msgctxt "app"
+msgid "Обращение"
+msgstr ""
+
+msgctxt "app"
+msgid "Обращение было закрыто."
+msgstr ""
+
+msgctxt "app"
+msgid "Общая стоимость"
+msgstr ""
+
+msgctxt "app"
+msgid "Общение с перевозчиком"
+msgstr ""
+
+msgctxt "app"
+msgid "Октябрь"
+msgstr ""
+
+msgctxt "app"
+msgid "Операции"
+msgstr ""
+
+msgctxt "app"
+msgid "Операция"
+msgstr ""
+
+msgctxt "app"
+msgid "Операция выполнена успешно."
+msgstr ""
+
+msgctxt "app"
+msgid "Оплата наличными водителю"
+msgstr ""
+
+msgctxt "app"
+msgid "Организация"
+msgstr ""
+
+msgctxt "app"
+msgid "Остановка"
+msgstr ""
+
+msgctxt "app"
+msgid "От"
+msgstr ""
+
+msgctxt "app"
+msgid "Откуда"
+msgstr ""
+
+msgctxt "app"
+msgid "Откуда забрать"
+msgstr ""
+
+msgctxt "app"
+msgid "Отмена"
+msgstr ""
+
+msgctxt "app"
+msgid "Отменить действие"
+msgstr ""
+
+msgctxt "app"
+msgid "Отменить заказ"
+msgstr ""
+
+msgctxt "app"
+msgid "Отображать или нет способы оплаты, доступные клиенту"
+msgstr ""
+
+msgctxt "app"
+msgid "Отображаются заказы в населенном пункте {placeName}."
+msgstr ""
+
+msgctxt "app"
+msgid "Отправитель: {name} ({phone})"
+msgstr ""
+
+msgctxt "app"
+msgid "Отправить"
+msgstr ""
+
+msgctxt "app"
+msgid "Отправить еще"
+msgstr ""
+
+msgctxt "app"
+msgid "Отправить сообщение"
+msgstr ""
+
+msgctxt "app"
+msgid "Отправка кода"
+msgstr ""
+
+msgctxt "app"
+msgid "Отправка сообщения"
+msgstr ""
+
+msgctxt "app"
+msgid "Отправляя свои персональные данные, я даю согласие на их использование и обработку."
+msgstr ""
+
+msgctxt "app"
+msgid "Отчество"
+msgstr ""
+
+msgctxt "app"
+msgid "Отчет"
+msgstr ""
+
+msgctxt "app"
+msgid "Отчет о поездке"
+msgstr ""
+
+msgctxt "app"
+msgid "Отчет о поездке отправлен"
+msgstr ""
+
+msgctxt "app"
+msgid "Отчет: {name}"
+msgstr ""
+
+msgctxt "app"
+msgid "Отчеты"
+msgstr ""
+
+msgctxt "app"
+msgid "Ошибка"
+msgstr ""
+
+msgctxt "app"
+msgid "Пароль отправлен"
+msgstr ""
+
+msgctxt "app"
+msgid "Первая фамилия"
+msgstr ""
+
+msgctxt "app"
+msgid "Первый сезон «Максимании» начался! Совершай поездки, получай крутые стикеры и делись с друзьями!"
+msgstr ""
+
+msgctxt "app"
+msgid "Перейти на сайт"
+msgstr ""
+
+msgctxt "app"
+msgid "Пн"
+msgstr ""
+
+msgctxt "app"
+msgid "По результатам рассмотрения Вам будет дан ответ."
+msgstr ""
+
+msgctxt "app"
+msgid "Повторить"
+msgstr ""
+
+msgctxt "app"
+msgid "Повторная отправка пароля возможна через 30 секунд"
+msgstr ""
+
+msgctxt "app"
+msgid "Поделиться"
+msgstr ""
+
+msgctxt "app"
+msgid "Поделиться стикером"
+msgstr ""
+
+msgctxt "app"
+msgid "Подразделение"
+msgstr ""
+
+msgctxt "app"
+msgid "Подробнее"
+msgstr ""
+
+msgctxt "app"
+msgid "Подъезд или место встречи"
+msgstr ""
+
+msgctxt "app"
+msgid "Поездки"
+msgstr ""
+
+msgctxt "app"
+msgid "Поездки не найдены."
+msgstr ""
+
+msgctxt "app"
+msgid "Поехали"
+msgstr ""
+
+msgctxt "app"
+msgid "Пожелания к заказу"
+msgstr ""
+
+msgctxt "app"
+msgid "Поиск"
+msgstr ""
+
+msgctxt "app"
+msgid "Пол"
+msgstr ""
+
+msgctxt "app"
+msgid "Полное имя"
+msgstr ""
+
+msgctxt "app"
+msgid "Получай стикер за каждую поездку. Собери уникальную коллекцию от партнера — и приз твой!"
+msgstr ""
+
+msgctxt "app"
+msgid "Получатель: {name} ({phone})"
+msgstr ""
+
+msgctxt "app"
+msgid "Получить в СМС"
+msgstr ""
+
+msgctxt "app"
+msgid "Получить код"
+msgstr ""
+
+msgctxt "app"
+msgid "Получить код подтверждения"
+msgstr ""
+
+msgctxt "app"
+msgid "Получить пароль голосовым сообщением?"
+msgstr ""
+
+msgctxt "app"
+msgid "Получить стикеры"
+msgstr ""
+
+msgctxt "app"
+msgid "Пользователи получают стикеры за каждую поездку с момента согласия участвовать в акции. Выбираются они случайным образом. Бонусный стикер дается не за поездку: он автоматически откроется, когда ты получишь пять стикеров из стикерпака. Заходи в главном меню приложения во вкладку «Коллекция стикеров» и проверяй, каких не хватает."
+msgstr ""
+
+msgctxt "app"
+msgid "Пользуйся приложением"
+msgstr ""
+
+msgctxt "app"
+msgid "Последние 30 дней"
+msgstr ""
+
+msgctxt "app"
+msgid "Последние 6 месяцев"
+msgstr ""
+
+msgctxt "app"
+msgid "Последние 7 дней"
+msgstr ""
+
+msgctxt "app"
+msgid "Посмотреть стикер"
+msgstr ""
+
+msgctxt "app"
+msgid "Поступило"
+msgstr ""
+
+msgctxt "app"
+msgid "Почему в рамках первого сезона некоторые стикеры из новогоднего стикерпака нельзя было получить?"
+msgstr ""
+
+msgctxt "app"
+msgid "Правила безналичной оплаты услуг"
+msgstr ""
+
+msgctxt "app"
+msgid "Правовая информация"
+msgstr ""
+
+msgctxt "app"
+msgid "Премиальных"
+msgstr ""
+
+msgctxt "app"
+msgid "При создании заказа произошла ошибка. Повторите попытку позже."
+msgstr ""
+
+msgctxt "app"
+msgid "Привязанные номера"
+msgstr ""
+
+msgctxt "app"
+msgid "Привязать номер"
+msgstr ""
+
+msgctxt "app"
+msgid "Привязка телефонов к личным счетам доступна в настройках профиля."
+msgstr ""
+
+msgctxt "app"
+msgid "Приглашенные водители, промокод - {promocode}"
+msgstr ""
+
+msgctxt "app"
+msgid "Применить"
+msgstr ""
+
+msgctxt "app"
+msgid "Принудительно привязать к этому клиенту"
+msgstr ""
+
+msgctxt "app"
+msgid "Принять участие"
+msgstr ""
+
+msgctxt "app"
+msgid "Продолжить"
+msgstr ""
+
+msgctxt "app"
+msgid "Промокод"
+msgstr ""
+
+msgctxt "app"
+msgid "Промокод: {promoCode}"
+msgstr ""
+
+msgctxt "app"
+msgid "Промоутер"
+msgstr ""
+
+msgctxt "app"
+msgid "Профиль"
+msgstr ""
+
+msgctxt "app"
+msgid "Прошлый месяц"
+msgstr ""
+
+msgctxt "app"
+msgid "Пт"
+msgstr ""
+
+msgctxt "app"
+msgid "Реальных"
+msgstr ""
+
+msgctxt "app"
+msgid "Редактировать"
+msgstr ""
+
+msgctxt "app"
+msgid "Реестр поездок по номеру {phone} за период с {startDate} по {endDate}"
+msgstr ""
+
+msgctxt "app"
+msgid "Режим отладки."
+msgstr ""
+
+msgctxt "app"
+msgid "Рекомендуем вводить данные, которые вы сможете подтвердить документально, так как лишь в этом случае вы сможете гарантировать, что у вас не возникнет проблем с выводом денег и восстановлением доступа в будущем."
+msgstr ""
+
+msgctxt "app"
+msgid "Сб"
+msgstr ""
+
+msgctxt "app"
+msgid "Свой интервал"
+msgstr ""
+
+msgctxt "app"
+msgid "Сгенерировать новый код"
+msgstr ""
+
+msgctxt "app"
+msgid "Сегодня"
+msgstr ""
+
+msgctxt "app"
+msgid "Сейчас Вы будете перенаправлены на страницу входа, где Вам нужно авторизовать с новым кодом"
+msgstr ""
+
+msgctxt "app"
+msgid "Сейчас идет первая, тестовая волна «Максимании». Стикерами можно любоваться и делиться в мессенджерах и соцсетях. В дальнейшем в приложении появятся новые стикерпаки, к которым мы прикрепим бонусы от компаний-партнеров. Следи за обновлениями!"
+msgstr ""
+
+msgctxt "app"
+msgid "Сентябрь"
+msgstr ""
+
+msgctxt "app"
+msgid "Сервис доступен только для владельцев лицевых счетов."
+msgstr ""
+
+msgctxt "app"
+msgid "Сервис доступен только для лицевых счетов юридических лиц."
+msgstr ""
+
+msgctxt "app"
+msgid "Сервис заказа такси «Максим»"
+msgstr ""
+
+msgctxt "app"
+msgid "Серия и номер паспорта"
+msgstr ""
+
+msgctxt "app"
+msgid "Скачайте приложение"
+msgstr ""
+
+msgctxt "app"
+msgid "Скачать"
+msgstr ""
+
+msgctxt "app"
+msgid "Скачать акт"
+msgstr ""
+
+msgctxt "app"
+msgid "Скидка"
+msgstr ""
+
+msgctxt "app"
+msgid "Собирать стикеры — это весело. И мы обязательно продолжим — уже в следующем сезоне программы «Играй с «Максим». Жди новостей. И да — пора ехать!"
+msgstr ""
+
+msgctxt "app"
+msgid "Совпадений не найдено"
+msgstr ""
+
+msgctxt "app"
+msgid "Совпадений нет"
+msgstr ""
+
+msgctxt "app"
+msgid "Создавай заказ через приложение «Максим» и собирай крутые стикерпаки. За каждую поездку сервис дарит стикер."
+msgstr ""
+
+msgctxt "app"
+msgid "Создание шаблона"
+msgstr ""
+
+msgctxt "app"
+msgid "Создать заказ"
+msgstr ""
+
+msgctxt "app"
+msgid "Создать отчет"
+msgstr ""
+
+msgctxt "app"
+msgid "Создать шаблон"
+msgstr ""
+
+msgctxt "app"
+msgid "Сообщение"
+msgstr ""
+
+msgctxt "app"
+msgid "Состояние"
+msgstr ""
+
+msgctxt "app"
+msgid "Сохранить"
+msgstr ""
+
+msgctxt "app"
+msgid "Сохранить мои данные для повторных операций"
+msgstr ""
+
+msgctxt "app"
+msgid "Сохранить профиль"
+msgstr ""
+
+msgctxt "app"
+msgid "Сохранить шаблон"
+msgstr ""
+
+msgctxt "app"
+msgid "Спасибо за ваше сообщение!"
+msgstr ""
+
+msgctxt "app"
+msgid "Спасибо за то, что вы выбираете Maxim."
+msgstr ""
+
+msgctxt "app"
+msgid "Спасибо!"
+msgstr ""
+
+msgctxt "app"
+msgid "Список обращений"
+msgstr ""
+
+msgctxt "app"
+msgid "Способ оплаты"
+msgstr ""
+
+msgctxt "app"
+msgid "Способы оплаты"
+msgstr ""
+
+msgctxt "app"
+msgid "Способы пополнения лицевого счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Справка"
+msgstr ""
+
+msgctxt "app"
+msgid "Ср"
+msgstr ""
+
+msgctxt "app"
+msgid "Срочно"
+msgstr ""
+
+msgctxt "app"
+msgid "Статус"
+msgstr ""
+
+msgctxt "app"
+msgid "Статус анкеты"
+msgstr ""
+
+msgctxt "app"
+msgid "Статус выполнения 3 заказов"
+msgstr ""
+
+msgctxt "app"
+msgid "Стикеры и подарки за поездки!"
+msgstr ""
+
+msgctxt "app"
+msgid "Стикеры можно получить только после согласия на участие в акции. Возможно, все стикеры текущего сезона уже собраны. Как это проверить:"
+msgstr ""
+
+msgctxt "app"
+msgid "Стикеры пользователи получают за каждую поездку с момента согласия на участие в акции. Они выбираются случайным образом. Бонусный стикер не дается за поездку, он автоматически открывается, когда ты получаешь пять стикеров из стикерпака. Заходи в главном меню приложения во вкладку «Коллекция стикеров» и проверяй, каких не хватает."
+msgstr ""
+
+msgctxt "app"
+msgid "Стикеры просто улетные!"
+msgstr ""
+
+msgctxt "app"
+msgid "Стикеры — за поездки!"
+msgstr ""
+
+msgctxt "app"
+msgid "Стоимость"
+msgstr ""
+
+msgctxt "app"
+msgid "Страна"
+msgstr ""
+
+msgctxt "app"
+msgid "Страна. Доступные страны: {countries}"
+msgstr ""
+
+msgctxt "app"
+msgid "Страница доступна на другом языке - {language}"
+msgstr ""
+
+msgctxt "app"
+msgid "Страница не найдена"
+msgstr ""
+
+msgctxt "app"
+msgid "Страница не найдена."
+msgstr ""
+
+msgctxt "app"
+msgid "Сумма"
+msgstr ""
+
+msgctxt "app"
+msgid "Сумма зачисления"
+msgstr ""
+
+msgctxt "app"
+msgid "Сумма на выдачу, {currency}"
+msgstr ""
+
+msgctxt "app"
+msgid "Сформировать счет на оплату"
+msgstr ""
+
+msgctxt "app"
+msgid "Счет не найден"
+msgstr ""
+
+msgctxt "app"
+msgid "Счета"
+msgstr ""
+
+msgctxt "app"
+msgid "Счета на оплату."
+msgstr ""
+
+msgctxt "app"
+msgid "Счета не найдены"
+msgstr ""
+
+msgctxt "app"
+msgid "Тариф"
+msgstr ""
+
+msgctxt "app"
+msgid "Тариф: {tariffGroup} — {tariffName}"
+msgstr ""
+
+msgctxt "app"
+msgid "Тариф: {tariffName}"
+msgstr ""
+
+msgctxt "app"
+msgid "Тарифы и услуги"
+msgstr ""
+
+msgctxt "app"
+msgid "Текст комментария не более 250 символов"
+msgstr ""
+
+msgctxt "app"
+msgid "Текст обращения"
+msgstr ""
+
+msgctxt "app"
+msgid "Текст обращения не более 500 символов"
+msgstr ""
+
+msgctxt "app"
+msgid "Текущий баланс"
+msgstr ""
+
+msgctxt "app"
+msgid "Телефон"
+msgstr ""
+
+msgctxt "app"
+msgid "Телефон {phone} авторизован."
+msgstr ""
+
+msgctxt "app"
+msgid "Телефон отправителя"
+msgstr ""
+
+msgctxt "app"
+msgid "Телефон получателя"
+msgstr ""
+
+msgctxt "app"
+msgid "Тема"
+msgstr ""
+
+msgctxt "app"
+msgid "Тема сообщения"
+msgstr ""
+
+msgctxt "app"
+msgid "Тема формы. Доступные темы: {themes}"
+msgstr ""
+
+msgctxt "app"
+msgid "Теперь стикеры не только картинки! Собери партнерский стикерпак и получи бонусный стикер с промокодом. Активируй его на сайте партнера и радуйся подарку!"
+msgstr ""
+
+msgctxt "app"
+msgid "Тип"
+msgstr ""
+
+msgctxt "app"
+msgid "Тип обращения"
+msgstr ""
+
+msgctxt "app"
+msgid "Точно не хотите стать коллекционером?"
+msgstr ""
+
+msgctxt "app"
+msgid "У вас уже есть необработанное заявление на возврат предоплаты со счета."
+msgstr ""
+
+msgctxt "app"
+msgid "Удаление номера телефона"
+msgstr ""
+
+msgctxt "app"
+msgid "Удалить"
+msgstr ""
+
+msgctxt "app"
+msgid "Удалить заказ из истории?"
+msgstr ""
+
+msgctxt "app"
+msgid "Узнать подробности"
+msgstr ""
+
+msgctxt "app"
+msgid "Указан неверный код"
+msgstr ""
+
+msgctxt "app"
+msgid "Улица"
+msgstr ""
+
+msgctxt "app"
+msgid "Улица или место"
+msgstr ""
+
+msgctxt "app"
+msgid "Уникальный идентификатор. НЕ ИЗМЕНЯТЬ"
+msgstr ""
+
+msgctxt "app"
+msgid "Управление номерами телефонов доступно только для владельца счета."
+msgstr ""
+
+msgctxt "app"
+msgid "Управление номерами телефонов доступно только для корпоративных счетов."
+msgstr ""
+
+msgctxt "app"
+msgid "ФИО"
+msgstr ""
+
+msgctxt "app"
+msgid "ФИО получателя (владельца счета)"
+msgstr ""
+
+msgctxt "app"
+msgid "Фамилия"
+msgstr ""
+
+msgctxt "app"
+msgid "Фамилия Имя Отчество"
+msgstr ""
+
+msgctxt "app"
+msgid "Февраль"
+msgstr ""
+
+msgctxt "app"
+msgid "Форма"
+msgstr ""
+
+msgctxt "app"
+msgid "Формирование отчета может занимать несколько минут."
+msgstr ""
+
+msgctxt "app"
+msgid "Хочу"
+msgstr ""
+
+msgctxt "app"
+msgid "Хочу такой же!"
+msgstr ""
+
+msgctxt "app"
+msgid "Цвет текста"
+msgstr ""
+
+msgctxt "app"
+msgid "Цвет фона"
+msgstr ""
+
+msgctxt "app"
+msgid "Цена"
+msgstr ""
+
+msgctxt "app"
+msgid "Часто задаваемые вопросы"
+msgstr ""
+
+msgctxt "app"
+msgid "Часы"
+msgstr ""
+
+msgctxt "app"
+msgid "Через QIWI Кошелёк. Для этого в строке поиска введите «Maxim», укажите номер счёта {account} и сумму перевода."
+msgstr ""
+
+msgctxt "app"
+msgid "Через QIWI Кошелёк. Для этого в строке поиска введите «Поехали», укажите номер счёта {account} и сумму перевода."
+msgstr ""
+
+msgctxt "app"
+msgid "Через {link}. Для этого в строке поиска введите «Maxim», укажите номер счёта {account} и сумму перевода."
+msgstr ""
+
+msgctxt "app"
+msgid "Через {link}. Для этого в строке поиска введите «Поехали», укажите номер счёта {account} и сумму перевода."
+msgstr ""
+
+msgctxt "app"
+msgid "Через звонок"
+msgstr ""
+
+msgctxt "app"
+msgid "Чт"
+msgstr ""
+
+msgctxt "app"
+msgid "Что делать с собранными стикерами?"
+msgstr ""
+
+msgctxt "app"
+msgid "Что доставить"
+msgstr ""
+
+msgctxt "app"
+msgid "Что купить"
+msgstr ""
+
+msgctxt "app"
+msgid "Чтобы отправить сообщение, необходимо:"
+msgstr ""
+
+msgctxt "app"
+msgid "Шаблоны"
+msgstr ""
+
+msgctxt "app"
+msgid "Шаблоны не найдены."
+msgstr ""
+
+msgctxt "app"
+msgid "Шаблоны поездок"
+msgstr ""
+
+msgctxt "app"
+msgid "Электронный адрес"
+msgstr ""
+
+msgctxt "app"
+msgid "Этот месяц"
+msgstr ""
+
+msgctxt "app"
+msgid "Я не получил стикер."
+msgstr ""
+
+msgctxt "app"
+msgid "Я не получил стикеры из первого сезона. Могу ли я получить их во втором?"
+msgstr ""
+
+msgctxt "app"
+msgid "Язык"
+msgstr ""
+
+msgctxt "app"
+msgid "Язык формы. Доступные языки: {languages}"
+msgstr ""
+
+msgctxt "app"
+msgid "Январь"
+msgstr ""
+
+msgctxt "app"
+msgid "на сайте программы"
+msgstr ""
+
+msgctxt "app"
+msgid "обязательно для заполнения."
+msgstr ""
+
+msgctxt "app"
+msgid "от"
+msgstr ""
+
+msgctxt "app"
+msgid "от {date}"
+msgstr ""
+
+msgctxt "app"
+msgid "политикой конфиденциальности"
+msgstr ""
+
+msgctxt "app"
+msgid "публичной офертой"
+msgstr ""
+
+msgctxt "app"
+msgid "со счета и наличными"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "{timeStart} — {timeEnd}"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Время"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Время начала"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Время окончания"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Вы уверены, что хотите удалить выбранный лимит?"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Данные успешно сохранены."
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Дни недели"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Лимиты"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Лимиты {phoneNumber}"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Наименование"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Номер телефона"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Ограничить время использования счета"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Сумма"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "Тип лимита"
+msgstr ""
+
+msgctxt "app/accountLimits"
+msgid "ЧЧ:ММ"
+msgstr ""
+
+msgctxt "app/error"
+msgid "Загружаем информацию"
+msgstr ""
+
+msgctxt "app/error"
+msgid "Обновите страницу через несколько минут. Если данные не появятся, напишите в «Обратную связь»."
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Акты взаиморасчетов"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Акты взаиморасчетов."
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Акты выполненных работ"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Дата"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Запрос на создание акта взаиморасчета создан."
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Запрос на формирование счета успешно отправлен."
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Наименование"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Начало периода"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Окончание периода"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Создать акт"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Сумма"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Сформировать счет"
+msgstr ""
+
+msgctxt "app/invoice"
+msgid "Счета на оплату"
+msgstr ""
+
+msgctxt "app/order"
+msgid "{date}, {timeStart} - {timeEnd}"
+msgstr ""
+
+msgctxt "app/order"
+msgid "Выберите причину отмены"
+msgstr ""
+
+msgctxt "app/order"
+msgid "Заказ на {dateTime}"
+msgstr ""
+
+msgctxt "app/order"
+msgid "Заказ на текущее время"
+msgstr ""
+
+msgctxt "app/order"
+msgid "Назад"
+msgstr ""
+
+msgctxt "iran"
+msgid "Номер Sheba"
+msgstr ""
+
+msgctxt "order"
+msgid "Добавить карту"
+msgstr ""
+
+msgctxt "order"
+msgid "Карта добавлена."
+msgstr ""
+
+msgctxt "order"
+msgid "Можно закрыть вкладку."
+msgstr ""
+
+msgctxt "order"
+msgid "Ок"
+msgstr ""
+
+msgctxt "order"
+msgid "Предварительный заказ"
+msgstr ""
+
+msgctxt "order"
+msgid "Сейчас"
+msgstr ""
+
+msgctxt "order"
+msgid "Счет ({balance}) и {cardName}"
+msgstr ""
+
+msgctxt "yii"
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+msgctxt "yii"
+msgid "Error"
+msgstr ""
+
+msgctxt "yii"
+msgid "Login Required"
+msgstr ""
+
+msgctxt "yii"
+msgid "Page not found."
+msgstr ""
+
+msgctxt "yii"
+msgid "{attribute} is not in the allowed range."
+msgstr ""
+
